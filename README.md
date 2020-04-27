@@ -12,7 +12,9 @@ This package is still in development. The current version of this package is not
 
 **2.** Click on the "**+**" symbol in the top-left of the window that shows up.
 
-**3.** Copy-paste the link below and press **Add**.
+**3.** Click on **Add package from git URL...**
+
+**4.** Copy-paste the link below and press **Add**.
 ```
 https://github.com/empireboy/com.cm.spawning.git
 ```
