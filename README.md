@@ -1,4 +1,4 @@
-# CM Spawning V0.1.0
+# CM Spawning V0.1.1
 
 CM Spawning is a platform independent package for spawning objects.
 

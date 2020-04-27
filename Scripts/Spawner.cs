@@ -7,7 +7,7 @@ namespace CM.Spawning
 		public Vector3 Position { get; set; }
 		public bool SpawnOnLoad { get; private set; }
 
-		public Spawner(Vector3 position, bool spawnOnLoad)
+		public Spawner(Vector3 position, bool spawnOnLoad = false)
 		{
 			Position = position;
 			SpawnOnLoad = spawnOnLoad;

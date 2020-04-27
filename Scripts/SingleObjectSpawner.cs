@@ -6,7 +6,7 @@ namespace CM.Spawning
 	{
 		protected T spawnableObject;
 
-		public SingleObjectSpawner(T spawnableObject, Vector3 position, bool spawnOnLoad) : base(position, spawnOnLoad)
+		public SingleObjectSpawner(T spawnableObject, Vector3 position, bool spawnOnLoad = false) : base(position, spawnOnLoad)
 		{
 			this.spawnableObject = spawnableObject;
 		}
