@@ -16,6 +16,4 @@ This package is still in development. The current version of this package is not
 
 **4.** Copy-paste the link below and press **Add**.
 
-`
 https://github.com/empireboy/com.cm.spawning.git
-`
